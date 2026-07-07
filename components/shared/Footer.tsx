@@ -37,9 +37,9 @@ export function Footer() {
           <div>
             <h4 className="font-semibold text-sm text-gray-900 mb-3">Contact</h4>
             <ul className="space-y-2 text-sm text-gray-500">
-              <li className="flex items-center gap-2"><Mail className="w-4 h-4 shrink-0"/><a href="mailto:hello@electrocomp.com" className="hover:text-blue-700">hello@electrocomp.com</a></li>
-              <li className="flex items-center gap-2"><Phone className="w-4 h-4 shrink-0"/><span>+1 (555) 000-0000</span></li>
-              <li className="flex items-center gap-2"><MapPin className="w-4 h-4 shrink-0"/><span>Innovation District, SF</span></li>
+              <li className="flex items-center gap-2"><Mail className="w-4 h-4 shrink-0"/><a href="mailto:hello@electrocomp.com" className="hover:text-blue-700">electronicscompnentpoweringin@gmail.com</a></li>
+              <li className="flex items-center gap-2"><Phone className="w-4 h-4 shrink-0"/><span>+234 (0) 901-819-4510</span></li>
+              <li className="flex items-center gap-2"><MapPin className="w-4 h-4 shrink-0"/><span>Ilupeju District, LG</span></li>
             </ul>
           </div>
         </div>
